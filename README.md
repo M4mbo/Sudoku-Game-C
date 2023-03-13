@@ -1,4 +1,4 @@
-# Sudoku-Game-C-language
+# Sudoku-Game-C
 Sudoku game implemented in C language. 
 
 Rules of Sudoku:
